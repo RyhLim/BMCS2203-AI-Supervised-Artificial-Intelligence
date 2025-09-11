@@ -21,7 +21,8 @@ The system is developed using:
 Implemented Models:
 - Random Forest 
 - Linear Regression
-- Support Vector Machine (SVM) - SVC 
+- Support Vector Machine (SVM) - SVC
+- Logisic Regression
 
 The folder structure:
 crime_prediction_project(latest)/
